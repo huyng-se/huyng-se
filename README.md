@@ -5,7 +5,7 @@
 
 <h3>Software Engineer from Viet Nam, I'm always looking for new challenges and never stop learning.</h3>
 
-### Full-Stack Developer
+### Software Engineer
 
 - 🌱 I’m currently learning the Full-Stack Developer
 
