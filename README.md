@@ -1,9 +1,9 @@
-<h2 >
-   Hi, I'm Huy Nguyen</h1
+<h2>
+   Hi, I'm Huy Nguyen
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hand" height="50" width="50" />
 </h2>
 
-<h3>I'm Software Engineer, I'm always looking for new challenges and never stop learning.</h3>
+<h3>Software Engineer from Viet Nam, I'm always looking for new challenges and never stop learning.</h3>
 
 ### Full-Stack Developer
 
