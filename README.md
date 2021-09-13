@@ -13,7 +13,7 @@ Fun Fact:
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart%20-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2320232a.svg?&style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2320232a.svg?&style=for-the-badge&logo=go&logoColor=%white)
 
 ### Technologies
 
