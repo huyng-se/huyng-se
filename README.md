@@ -13,17 +13,18 @@ Fun Fact:
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart%20-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2320232a.svg?&style=for-the-badge&logo=go&logoColor=%white)
+![Rust](https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=rust&logoColor=%white)
 
 ### Technologies
 
 ![Flutter](https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
+![ElectronJS](https://img.shields.io/badge/electronJS%20-%2320232a.svg?&style=for-the-badge&logo=electron&logoColor=%white)
+![NestJS](https://img.shields.io/badge/NestJS%20-%2320232a.svg?&style=for-the-badge&logo=nestjs&logoColor=%white)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql%20-%2320232a.svg?&style=for-the-badge&logo=graphql&logoColor=%white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/vue.js%20-%2320232a.svg?&style=for-the-badge&logo=vue.js&logoColor=%white)
+![Svelte](https://img.shields.io/badge/svelte%20-%2320232a.svg?&style=for-the-badge&logo=svelte&logoColor=%white)
 
 
 ### Databases
