@@ -9,23 +9,18 @@ Fun Fact:
 - 📫 Reach out to me at **huythai.dev@gmail.com**.
 
 ### Languages
-
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart%20-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=rust&logoColor=%white)
 
 ### Technologies
-
 ![Flutter](https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
-![ElectronJS](https://img.shields.io/badge/electronJS%20-%2320232a.svg?&style=for-the-badge&logo=electron&logoColor=%white)
 ![NestJS](https://img.shields.io/badge/NestJS%20-%2320232a.svg?&style=for-the-badge&logo=nestjs&logoColor=%white)
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql%20-%2320232a.svg?&style=for-the-badge&logo=graphql&logoColor=%white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Svelte](https://img.shields.io/badge/svelte%20-%2320232a.svg?&style=for-the-badge&logo=svelte&logoColor=%white)
-
+![ReactJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=%white)
@@ -33,12 +28,12 @@ Fun Fact:
 ![Redis](https://img.shields.io/badge/Redis%20-%2320232a.svg?&style=for-the-badge&logo=redis&logoColor=%white)
 ![Firebase](https://img.shields.io/badge/firebase%20-%2320232a.svg?&style=for-the-badge&logo=firebase&logoColor=%white)
 
-<br/>
+<!-- <br/>
   <div>
     <details>
         <summary>🛠️ Most Used Languages </summary>
           <br/>
         <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huy-thai&show_icons=true&locale=en&layout=compact" alt="huy-thai" /></p>
     </details>
-</div> 
+</div>  -->
 <!-- <br/><br/>
