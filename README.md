@@ -11,9 +11,9 @@ Fun Fact:
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%23007ACC.svg?&style=for-the-badge&logo=dart&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=rust&logoColor=%white)
+![Python](https://img.shields.io/badge/python%20-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++%20-%23007ACC.svg?&style=for-the-badge&logo=c++&logoColor=%23F7DF1E)
+![Rust](https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=rust&logoColor=white)
 
 ### Technologies
 ![Flutter](https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
