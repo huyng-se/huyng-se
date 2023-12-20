@@ -17,9 +17,9 @@ Fun Fact:
 
 ### Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter)
-![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=nodeJs)
+![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=nodeJS)
 ![Docker](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker)
-![ReactJS](https://img.shields.io/badge/ReactJS-grey?style=for-the-badge&logo=reactJs)
+![ReactJS](https://img.shields.io/badge/ReactJS-grey?style=for-the-badge&logo=reactJS)
 ![Spring](https://img.shields.io/badge/Spring-grey?style=for-the-badge&logo=spring)
 
 ### Databases
