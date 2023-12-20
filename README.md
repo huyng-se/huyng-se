@@ -12,7 +12,6 @@ Fun Fact:
 ![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus)
-![C++](https://img.shields.io/badge/rust-grey?style=for-the-badge&logo=rust)
 ![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=Java)
 
 ### Technologies
