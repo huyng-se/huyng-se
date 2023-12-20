@@ -12,7 +12,7 @@ Fun Fact:
 ![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=openjdk)
 
 ### Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)
