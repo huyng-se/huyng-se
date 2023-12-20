@@ -10,8 +10,8 @@ Fun Fact:
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/logo-python-blue?logo=python)
-![C++](https://img.shields.io/badge/logo-cplusplus-white?logo=cplusplus)
+![Python](https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus)
 
 ### Technologies
 ![Flutter](https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
