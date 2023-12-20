@@ -9,7 +9,7 @@ Fun Fact:
 - 📫 Reach out to me at **huythai.dev@gmail.com**.
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://img.shields.io/badge/javascript?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/logo-python-blue?logo=python)
 ![C++](https://img.shields.io/badge/logo-cplusplus-white?logo=cplusplus)
 
