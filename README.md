@@ -9,11 +9,9 @@ Fun Fact:
 - 📫 Reach out to me at **huythai.dev@gmail.com**.
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%white)
-![C++](https://img.shields.io/badge/C++%20-%2320232a.svg?&style=for-the-badge&logo=cplusplus&logoColor=%white)
-![Rust](https://img.shields.io/badge/rust-%2320232a.svg?&style=for-the-badge&logo=rust&logoColor=%white)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![Python](https://img.shields.io/badge/logo-python-blue?logo=python)
+![C++](https://img.shields.io/badge/logo-cplusplus-white?logo=cplusplus)
 
 ### Technologies
 ![Flutter](https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB)
