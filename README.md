@@ -13,16 +13,16 @@ Fun Fact:
 ![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/c++-grey?style=for-the-badge&logo=cplusplus)
 ![C++](https://img.shields.io/badge/rust-grey?style=for-the-badge&logo=rust)
-![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/java-grey?style=for-the-badge&logo=Java)
 
 ### Technologies
-![Flutter](https://img.shields.io/badge/Flutter-grey?style=for-the-badge&logo=flutter)
-![NodeJS](https://img.shields.io/badge/NodeJS-grey?style=for-the-badge&logo=nodeJS)
-![Docker](https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker)
-![ReactJS](https://img.shields.io/badge/ReactJS-grey?style=for-the-badge&logo=reactJS)
-![Spring](https://img.shields.io/badge/Spring-grey?style=for-the-badge&logo=spring)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge&logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
+![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?&style=for-the-badge&logo=mongodb&logoColor=%white)
-![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?&style=for-the-badge&logo=postgresql&logoColor=%white)
-![Redis](https://img.shields.io/badge/Redis%20-%2320232a.svg?&style=for-the-badge&logo=redis&logoColor=%white)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/Postgres-grey?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-grey?style=for-the-badge&logo=redis)
