@@ -5,7 +5,7 @@
 
 Fun Fact:
 - 🏋️ I'm learning the skills of Cloud Solution Architect.
-- 🌱 I love Football, Swimming, and playing Video Games.
+- 🌱 I love Football, Swimming, and play Video Games.
 - 📫 Reach out to me at **huythai.dev@gmail.com**.
 
 ### Programming Languages
