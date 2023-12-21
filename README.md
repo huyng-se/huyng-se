@@ -1,5 +1,5 @@
 <h2>
-   Hey There, I'm Huy Nguyen
+   What'up, I'm Huy Nguyen
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="hand" height="50" width="50" />
 </h2>
 
