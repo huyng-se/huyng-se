@@ -6,7 +6,7 @@
 Fun Fact:
 - 🏋️ I'm learning the skills of Software Architect.
 - 🌱 I love Football, Swimming, and play Video Games.
-- 📫 Reach out to me at **huythai.dev@gmail.com**.
+- 📫 Reach out to me at **huythai.dev@outlook.com**.
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
