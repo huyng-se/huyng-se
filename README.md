@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy, Software Engineer.</h1>
-<h3 align="center">My passion lies in exploring how technology can transform our world, specifically through impactful applications in health, environmental sustainability, and the realm of IoT.</h3>
-
-- 💬 I'm very interested about **Embedded, Computer Vision, Robotics**
+- 💬 I'm very interested about **Robotics and AI IoT**
 
 - 📫 Business inquiries **huythai.dev@gmail.com**
 
