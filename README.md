@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Huy. Software Engineer</h1>
+<h1 align="center">👋, I'm Huy Ng</h1>
 
 ### 👨‍💻 About Me
-I am a Software Engineer focused on **system development and backend architecture**.  
-My interests include **Robotics, AI, IoT**, and large-scale software systems.
+I'm a Software Engineer focused on **system development and backend architecture**.  
+My interests include **AI, IoT**, and large-scale software systems.
 
-I am currently studying **System Design and AWS**, with the goal of building **cloud-based, scalable, and production-ready systems**.
+I am currently studying **System Design and Cloud Platform**, with the goal of building **cloud-based, scalable, and production-ready systems**.
 
 ### 📚 Currently Learning
 - System Design (Scalability, Reliability, Distributed Systems)
-- AWS (EC2, S3, IAM)
+- AWS, GCP
 
 ### 🤝 Connect with me
 <p align="left">
@@ -24,7 +24,6 @@ I am currently studying **System Design and AWS**, with the goal of building **c
 ### 🛠 Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="Zig" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
